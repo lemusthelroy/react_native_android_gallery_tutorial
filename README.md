@@ -17,7 +17,7 @@ To date, we have chosen not to use Expo to build our app with React Native, inst
 
 You should therefore follow the setup steps outlined in the React Native document, which is fairly easy to follow - [https://facebook.github.io/react-native/docs/getting-started](https://facebook.github.io/react-native/docs/getting-started).
 
-Make sure you follow the step to create your virtual device.
+Make sure you follow the step to create your virtual device - ensuring you have created an **Android device**.
 
 ## Step 3 - Get your virtual device running
 
