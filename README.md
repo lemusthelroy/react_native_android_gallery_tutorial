@@ -27,7 +27,11 @@ It is best not to have more than one virtual device running at the same time.
 
 Run `yarn` to install all of the packages for this application
 
-## Step 5 - Start the App
+## Step 5 - Permissions (Mac/Linux users only)
+
+Run `chmod -R +x ./` to allow execution of the required files.
+
+## Step 6 - Start the App
 
 Run `yarn react-native run-android` or `yarn start`
 
